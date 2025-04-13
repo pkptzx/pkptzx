@@ -7,5 +7,5 @@
 [![pkptzx's github stats](https://github-readme-stats.vercel.app/api?username=pkptzx&count_private=true&show_icons=true)](https://github.com/pkptzx)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkptzx&layout=compact)](https://github.com/pkptzx)
 
-[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=pkptzx&repo=blog)](https://github.com/pkptzx/blog)
-[![GitHub520](https://github-readme-stats.vercel.app/api/pin/?username=521xueweihan&repo=GitHub520)](https://github.com/521xueweihan/GitHub520)
+[![AntiWindowSnap](https://github-readme-stats.vercel.app/api/pin/?username=pkptzx&repo=AntiWindowSnap)](https://github.com/pkptzx/AntiWindowSnap)
+[![rawcopy-rs](https://github-readme-stats.vercel.app/api/pin/?username=pkptzx&repo=rawcopy-rs)](https://github.com/pkptzx/rawcopy-rs)
